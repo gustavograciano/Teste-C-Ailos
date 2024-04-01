@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxO7mWvA9ixq71VgsYtBXIUEWipNaUJe1WZV6uNy/wjDJHGkzT0EhCUSJJBMZ3H/lcU+8poeUiaL7Bc4YroQTg==",
+  "dgSpecHash": "pECBDailyAZ9QUTVFO7vRkBTET3opvQ1iH4gugz6AQmjHVYupgmmFv9liGjw72EtLT0eqE09mGg2ko2OPxN2ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Downloads\\Teste de C# da Ailos\\Questao2\\Questao2.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Downloads\\Teste-C-Ailos\\Questao2\\Questao2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
